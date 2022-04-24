@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ianmanding
-- 👀 I’m interested in materials informatics
-- 🌱 I’m currently learning the basics of machine learning
+- 👀 I’m currently a machine learning engineering trainee at the Philippines' top fintech company
+- 🌱 I’m well-versed in Python and Java
 
 <!---
 ianmanding/ianmanding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
