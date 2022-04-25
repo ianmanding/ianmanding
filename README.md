@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ianmanding
+- 👋 Hi, I’m @machinelurning
 - 👀 I’m currently a machine learning engineering trainee at the Philippines' top fintech company
 - 🌱 I’m well-versed in Python and Java
 
