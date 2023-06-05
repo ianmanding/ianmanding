@@ -1,4 +1,4 @@
-### Hi there, I'm Ian a tech-savvy backend developer.
+### Hi there, I'm Ian a machine learning researcher.
 ### About Me 🙋🏻‍♂️
 ```python
 class AboutMe:
